@@ -21,6 +21,9 @@
 			alpha: 1,
 			color: c()
 		}), t.body.appendChild(a)
+		
+
+		
 	}
 
 	function i(e) {
